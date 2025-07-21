@@ -36,8 +36,8 @@ A simple and efficient chatbot with bilingual support (Hindi & English), powered
 
 ```bash
 # Clone the repo
-$ git clone https://github.com/yourusername/airavata-gguf-chat.git
-$ cd airavata-gguf-chat
+$ git clone https://github.com/Balaji1472/BharatChat-AI.git
+$ cd BharatChat-AI
 
 # Setup environment
 $ python -m venv venv
