@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+llama-cpp-python
+pydantic
+streamlit
+requests
+plotly
+python-multipart
