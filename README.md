@@ -19,7 +19,7 @@ A simple and efficient chatbot with bilingual support (Hindi & English), powered
 * **Backend**: FastAPI (REST API)
 * **Inference**: llama-cpp-python (GGUF model loader)
 * **Frontend**: Streamlit (or JS-based UI)
-* **Model**: `sam749/Airavata-GGUF` (Q4\_K\_M)
+* **Model**: ai4bharat/airavata (hugging face)
 
 ---
 
