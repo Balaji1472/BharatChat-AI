@@ -1,4 +1,4 @@
-**Airavata Quantized Chat App (GGUF-based)**
+## Airavata Quantized Chat App (GGUF-based)
 
 A simple and efficient chatbot with bilingual support (Hindi & English), powered by AI4Bharat's Airavata LLM in GGUF quantized format.
 
