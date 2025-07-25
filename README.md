@@ -4,6 +4,14 @@ A simple and efficient chatbot with bilingual support (Hindi & English), powered
 
 ---
 
+---
+## 🎥 Demo Video for output streaming word by word
+
+**Watch the workflow demonstration:**
+[📹 View Demo Video](https://drive.google.com/file/d/1v24sCjPyts6tKuME5gg7jy2gzDEPEDqq/view?usp=sharing)
+
+---
+
 ## 🧠 Key Features
 
 * Lightweight FastAPI backend with GGUF inference using `llama-cpp-python`
@@ -108,6 +116,7 @@ Checks if the model is loaded.
 ├── main.py          # FastAPI backend
 ├── app.py           # Streamlit frontend
 ├── models/          # Place GGUF model here
+├── ouput_screenshots
 ├── requirements.txt
 └── README.md
 ```
